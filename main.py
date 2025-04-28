@@ -1,1 +1,4 @@
-print("Welcome to Git assignment!")
+from datetime import datetime
+
+print("Welcome to Git Assignment")
+print("Current date and time:", datetime.now())
